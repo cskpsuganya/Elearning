@@ -7,9 +7,7 @@ import ubb.courses.backend.dtos.DTO;
 import javax.validation.constraints.Email;
 import javax.validation.constraints.NotNull;
 
-/**
- * Maps the login payload to User class
- */
+
 @Getter
 public class LoginDTO extends DTO {
 
