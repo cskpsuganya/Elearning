@@ -16,4 +16,4 @@ public interface ISecurityService {
     boolean isStudent();
 
     boolean isCourseOwner(int courseId);
-}/
+}
