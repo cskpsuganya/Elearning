@@ -8,3 +8,4 @@ public interface IUserService {
 
     void register(User user, AuthorityType authority);
 }
+/
