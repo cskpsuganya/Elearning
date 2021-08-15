@@ -1,4 +1,4 @@
-/* eslint-disable no-console */
+
 // @flow
 
 // This optional code is used to register a service worker.
