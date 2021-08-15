@@ -26,4 +26,4 @@ public interface IDTOConverter<D extends DTO, E> {
      */
     E createFrom(D dto);
 
-}//
+}
