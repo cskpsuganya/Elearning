@@ -17,4 +17,4 @@ import lombok.Setter;
 @NoArgsConstructor
 public class BaseDTO extends DTO {
     private Integer id;
-}
+}/
