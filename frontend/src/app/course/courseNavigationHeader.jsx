@@ -1,4 +1,4 @@
-@flow
+//@flow
 import * as React from 'react';
 import ArrowDropleft from 'react-ionicons/lib/MdArrowDropleft';
 import ArrowDropright from 'react-ionicons/lib/MdArrowDropright';
