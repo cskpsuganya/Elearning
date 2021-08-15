@@ -22,4 +22,4 @@ const CoursesList = ({ courses }: Props): React.Node => {
         : null;
 };
 
-export default withCourses(CoursesList);
+export default withCourses(CoursesList);/
