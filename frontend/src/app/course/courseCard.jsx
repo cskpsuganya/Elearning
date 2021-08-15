@@ -1,4 +1,4 @@
-// @flow
+
 import * as React from 'react';
 import Card from 'react-bootstrap/Card';
 import { NavLink } from 'react-router-dom';
