@@ -1,3 +1,4 @@
+//annotation file
 package ubb.courses.backend.annotations;
 
 import org.springframework.security.core.annotation.AuthenticationPrincipal;
