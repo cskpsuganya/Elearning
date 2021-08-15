@@ -49,4 +49,4 @@ const withCourses = <T: *>(
     return connect(mapStateToProps, mapDispatchToProps)(CoursesConnector);
 };
 
-export default withCourses;
+export default withCourses;/
