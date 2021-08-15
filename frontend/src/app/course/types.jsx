@@ -16,4 +16,3 @@ export type Course = {
     students: Person[],
     lessons: MediaItem[],
 };
-/
