@@ -38,4 +38,4 @@ public class Lesson extends BaseEntity {
     @Enumerated(EnumType.STRING)
     private LessonType type;
 
-}/
+}
