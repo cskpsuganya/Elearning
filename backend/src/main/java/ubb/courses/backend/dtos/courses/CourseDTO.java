@@ -1,4 +1,4 @@
-//package ubb.courses.backend.dtos.courses;
+package ubb.courses.backend.dtos.courses;
 
 import lombok.Data;
 import lombok.EqualsAndHashCode;
