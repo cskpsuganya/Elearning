@@ -1,4 +1,4 @@
-// @flow
+
 import * as React from 'react';
 import Person from 'react-ionicons/lib/MdPerson';
 import Albums from 'react-ionicons/lib/MdAlbums';
