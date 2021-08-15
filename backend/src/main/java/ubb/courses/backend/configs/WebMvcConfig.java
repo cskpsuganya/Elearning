@@ -33,3 +33,4 @@ public class WebMvcConfig implements WebMvcConfigurer {
         return new MappedInterceptor(new String[] { "/**" }, authorityInterceptor);
     }
 }
+//
