@@ -1,4 +1,4 @@
-//package ubb.courses.backend.models;
+package ubb.courses.backend.models;
 
 import lombok.*;
 import org.springframework.data.annotation.CreatedDate;
