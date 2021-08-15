@@ -8,4 +8,4 @@ export const addCourseSchema = yup.object().shape({
         .required('Name is required'),
     description: yup.string().required('Description is required'),
 });
-/
+
