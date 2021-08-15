@@ -8,4 +8,3 @@ import java.util.Optional;
 public interface LessonRepository extends JpaRepository<Lesson, Integer> {
     Optional<Lesson> findByCourse_IdAndOrderIndex(Integer courseId, Integer orderIndex);
 }
-/
