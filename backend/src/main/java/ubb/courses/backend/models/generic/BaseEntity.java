@@ -14,4 +14,4 @@ public class BaseEntity {
     @Column(name = "ID")
     private Integer id;
 }
-/
+
