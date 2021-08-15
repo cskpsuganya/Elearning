@@ -1,4 +1,4 @@
-// @flow
+
 import * as React from 'react';
 import { Nav } from 'react-bootstrap';
 import Play from 'react-ionicons/lib/MdPlay';
