@@ -1,4 +1,4 @@
-package ubb.courses.backend.dtos.lesson;
+//package ubb.courses.backend.dtos.lesson;
 
 import org.springframework.stereotype.Component;
 import ubb.courses.backend.dtos.IDTOConverter;
