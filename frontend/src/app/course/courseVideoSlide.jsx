@@ -36,4 +36,4 @@ const CourseVideoSlide = ({ description, youtubeId }: Props): React.Node => {
     );
 };
 
-export default CourseVideoSlide;/
+export default CourseVideoSlide;
