@@ -1,4 +1,4 @@
-// @flow
+
 import { Button, Card } from 'react-bootstrap';
 import * as React from 'react';
 import { NavLink, useHistory } from 'react-router-dom';
