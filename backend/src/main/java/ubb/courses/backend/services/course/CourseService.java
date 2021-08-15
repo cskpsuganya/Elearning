@@ -1,4 +1,4 @@
-/package ubb.courses.backend.services.course;
+package ubb.courses.backend.services.course;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
