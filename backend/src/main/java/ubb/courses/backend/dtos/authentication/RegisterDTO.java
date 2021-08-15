@@ -8,9 +8,7 @@ import ubb.courses.backend.models.authorization.AuthorityType;
 import javax.validation.constraints.Email;
 import javax.validation.constraints.NotNull;
 
-/**
- * Maps the Register payload to User class
- */
+
 @Getter
 public class RegisterDTO extends DTO {
 
