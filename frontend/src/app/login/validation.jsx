@@ -7,3 +7,4 @@ export const loginSchema = yup.object().shape({
         .required('Email is required'),
     password: yup.string().required('Password is required'),
 });
+/
