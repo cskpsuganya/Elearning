@@ -17,4 +17,4 @@ public interface ICourseService {
     Course updateCourse(Course course);
 
     Course enrollStudent(Integer courseId);
-}
+}/
