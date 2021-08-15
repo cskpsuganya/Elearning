@@ -31,4 +31,4 @@ build/
 .vscode/
 
 workspace.xml
-tasks.xml
+tasks.xml/
