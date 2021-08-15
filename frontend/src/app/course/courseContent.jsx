@@ -1,4 +1,4 @@
-// @flow
+
 import * as React from 'react';
 import { Tab, Row, Col } from 'react-bootstrap';
 
