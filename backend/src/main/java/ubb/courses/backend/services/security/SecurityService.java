@@ -94,4 +94,4 @@ public class SecurityService implements ISecurityService {
 
         return courses.stream().anyMatch(c -> c.getId() == courseId);
     }
-}
+}/
