@@ -11,4 +11,4 @@ import java.util.Optional;
 public interface AuthorityRepository extends JpaRepository<Authority, Integer> {
     Optional<Authority> findByName(AuthorityType name);
 }
-/
+
