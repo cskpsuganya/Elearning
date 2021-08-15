@@ -1,4 +1,4 @@
-package ubb.courses.backend.models.authorization;
+/package ubb.courses.backend.models.authorization;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
