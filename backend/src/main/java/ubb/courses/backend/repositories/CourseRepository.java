@@ -7,3 +7,4 @@ import ubb.courses.backend.models.Course;
 @Repository
 public interface CourseRepository extends JpaRepository<Course, Integer> {
 }
+/
