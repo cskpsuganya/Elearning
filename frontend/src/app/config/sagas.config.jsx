@@ -1,4 +1,4 @@
-// @flow
+
 import { all, takeEvery, takeLatest } from 'redux-saga/effects';
 
 import { init, login, logout, register, UserTypes } from '../redux/user';
